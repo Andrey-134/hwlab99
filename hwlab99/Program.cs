@@ -39,7 +39,7 @@ using System;
 
 class Program
 {
-    static void PrintLength(string? input)
+    static void PrintLength(string input)
     {
         if (input == null)
         {
